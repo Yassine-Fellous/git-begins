@@ -3,3 +3,4 @@ git add <file or folder>
 git commit -m "message"
 git push <link repository and token>
 git pull <link repository and token>
+git checkout <name of branch>
